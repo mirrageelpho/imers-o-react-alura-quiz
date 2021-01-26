@@ -26,7 +26,7 @@ export default function Home() {
         </Widget>
       <Footer />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://www.github.com/aeciocleber" />
+      <GitHubCorner projectUrl="https://www.github.com/mirrageelpho" />
     </QuizBackground>
   )
 }
