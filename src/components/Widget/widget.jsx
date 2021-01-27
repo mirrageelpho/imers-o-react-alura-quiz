@@ -20,7 +20,7 @@ const Widget = styled.div`
   }
 `;
 
-Widget.Header = styled.header`
+Widget.Header = styled.div`
   display: flex;
   justify-content: flex-start;
   align-items: center;
